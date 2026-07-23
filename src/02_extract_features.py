@@ -1,4 +1,3 @@
-# extract_features.py
 import os
 import sys
 import csv

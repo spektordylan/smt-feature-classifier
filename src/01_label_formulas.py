@@ -1,4 +1,3 @@
-# label_formulas.py
 import os
 import time
 import csv
